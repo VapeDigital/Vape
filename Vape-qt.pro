@@ -3,7 +3,7 @@ macx{
 }
 TEMPLATE = app
 TARGET = Vape-qt
-VERSION = 1.0.0
+VERSION = 1.0.1
 INCLUDEPATH += src src/json src/qt /usr/local/include
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 CONFIG += no_include_pwd
